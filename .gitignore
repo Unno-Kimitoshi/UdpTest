@@ -1,0 +1,24 @@
+# Unity generated files and folders
+/[Uu]dpTestClient/**/[Ll]ibrary/
+/[Uu]dpTestClient/**/[Tt]emp/
+/[Uu]dpTestClient/**/[Oo]bj/
+/[Uu]dpTestClient/**/[Bb]uild/
+/[Uu]dpTestClient/**/[Bb]uilds/
+/[Uu]dpTestClient/**/[Ll]ogs/
+/[Uu]dpTestClient/**/[Uu]ser[Ss]ettings/
+/[Uu]dpTestClient/**/[Mm]emoryCaptures/
+/[Uu]dpTestClient/**/[Rr]ecordings/
+
+# IDE and generated project files
+/[Uu]dpTestClient/**/*.csproj
+/[Uu]dpTestClient/**/*.sln
+/[Uu]dpTestClient/**/*.slnx
+/[Uu]dpTestClient/**/*.suo
+/[Uu]dpTestClient/**/*.user
+/[Uu]dpTestClient/**/*.userprefs
+/[Uu]dpTestClient/**/.vs/
+/[Uu]dpTestClient/**/.idea/
+/[Uu]dpTestClient/**/.vscode/
+
+# Crash reports
+/[Uu]dpTestClient/**/sysinfo.txt
